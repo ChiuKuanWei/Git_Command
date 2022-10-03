@@ -5,3 +5,5 @@
 參考資料2 : https://medium.com/tsungs-blog/day13-git-github%E6%93%8D%E4%BD%9C-304ad94a1c6a
 
 參考資料3 : https://gitbook.tw/chapters/faq/stash
+
+git push失敗解決方法 : https://gitbook.tw/chapters/github/fail-to-push
